@@ -1,0 +1,32 @@
+./songs/00_00.wav
+00:00
+Siddhartha
+Indie
+./songs/arre.wav
+Arre
+Simpson Ahuevo
+Pop
+./songs/californiaGurls.wav
+California Gurls
+Katy Perry
+Pop
+./songs/caraluna.wav
+Caraluna
+Bacilos
+Indie
+./songs/feels.wav
+Feels
+Calvin Harris
+Pop
+./songs/getLucky.wav
+Get Lucky
+Daft Punk
+Pop
+./songs/me_hace_falta.wav
+Me hace falta
+Siddhartha
+Indie
+./songs/planA.wav
+Plan A
+Paulo Londra
+Rock
